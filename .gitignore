@@ -1,0 +1,5 @@
+env/
+.db.sqlite3
+/api/migrations/
+/api/__pycache__/
+/frontend/node_modules/
